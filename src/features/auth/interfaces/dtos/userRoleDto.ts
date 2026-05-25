@@ -1,0 +1,1 @@
+export type UserRoleDto = 'MANAGER'| 'CASHIER' |'ADMIN';
